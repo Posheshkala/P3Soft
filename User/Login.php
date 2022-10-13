@@ -3,7 +3,6 @@ $title='ورود';
 require '../Layout/Header.php';
 ?>
 
-
 <div class="m-auto card">
     <h1>Login</h1>
     <form action="/" method="post">
@@ -14,7 +13,6 @@ require '../Layout/Header.php';
         <button>Login</button>
     </form>
 </div>
-
 
 
 <?php
